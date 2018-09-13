@@ -1,3 +1,4 @@
+require 'rack-flash'
 require_relative '../../app/models/song'
 
 class SongsController < ApplicationController
